@@ -1,0 +1,23 @@
+img {
+    width: 310px; 
+    height: 200px;
+}
+
+#coches p {
+    text-align: center;
+    font-size: 20px;
+}
+
+#coches h3{
+    text-align: center;
+}
+
+#coches li,ul{
+    list-style-type: none;
+    margin-left: -20px;
+}
+
+#colocar {
+    width: 80%;
+    margin: auto;
+}
