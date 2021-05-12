@@ -1,5 +1,5 @@
 <?php
-$conexion = mysqli_connect("127.0.0.1", "gabi", "gabi", "prueba");
+$conexion = mysqli_connect("127.0.0.1", "gabi", "gabi", "concesionario");
 $consulta = "SELECT * FROM tabla";
  
 // Ejecutas las consulta
